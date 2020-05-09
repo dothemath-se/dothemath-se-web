@@ -28,7 +28,7 @@
     ],
     "include": [
       "**/*.ts",
-      "**/*.tsx"
+      "**/*.tsx", "src/pages/elever-material.jsx"
     ]
   }
   
