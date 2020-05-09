@@ -14,9 +14,11 @@ export default function() {
           dothemath.se
         </h1>
 
-        <Link href="/">Hem</Link>
-        <Link href="/elever-bootstrap"><a>Elever Bootstrap</a></Link>
-        <Link href="/elever-material"><a>Elever Material</a></Link>
+        Få hjälp med skolan av Universitetsstudenter
+        Tryck här för att gå med
+
+        Är det fortfarande lite oklart?
+        Ingen fara, tryck på knappen nedan för att se en guide för hur du kan gå med.
 
       </main>
     </div>
